@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/chicken.jpg</ImageUrl>
+    <AlternateText>Chicken Mandi</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Chicken</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/fish.jpg</ImageUrl>
+    <AlternateText>Fish Mandi Image</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Fish</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/meat.jpg</ImageUrl>
+    <AlternateText>Meat Mandi</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Meat</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Veg.jpg</ImageUrl>
+    <AlternateText>Veg Mandi</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Veg</Keyword>
+  </Ad>
+</Advertisements>

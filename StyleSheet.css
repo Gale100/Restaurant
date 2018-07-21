@@ -1,0 +1,35 @@
+﻿.Header {
+    vertical-align: middle;
+    line-height: normal;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: normal;
+    color: #000000;
+    background: #ffffcc;
+        }
+
+.LeftPanel {
+    position: absolute;
+    top: 101px;
+    left: 13px;
+    width: 150px;
+    background: #ffffcc;
+    bottom :78px;
+}
+.Footer {
+    position: absolute;
+    width:100%; 
+    bottom: 0;
+    right: 0;
+    background:#ffffcc;
+}
+
+.Content{
+    position: absolute;
+    top: 101px;
+    left: 165px;
+    text-align: left;
+    width: 75%;    
+}
